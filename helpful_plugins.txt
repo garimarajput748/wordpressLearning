@@ -1,0 +1,58 @@
+
+Editor Full Width Gutenberg --- Fix the Gutenberg editor width to full size
+
+Generate PDF using Contact Form 7 --- Generate PDF using Contact Form 7 Plugin provides an easier way to download document files, open the document file or send as an attachment after the successful form submit.
+
+Ivory Search --- he WordPress Search plugin that provides Search Form Customizer, WooCommerce Search, Image Search, Search Shortcode, AJAX Search & Live Search support!
+
+Pods-Custom Content Types and Fields --- Pods is a framework for creating, managing, and deploying customized content types and fields
+
+Redirection for Contact Form 7 --- The ultimate add-on for Contact Form 7 - redirect to any page after submission, fire scripts, save submissions in database, and much more options to make Contact Form 7 poweful than ever.
+
+Smart Slider 3 --- The perfect all-in-one responsive slider solution for WordPress.
+
+WP File Manager --- Manage your WP files. Using that plugin we can upload files and take backup ofproject with DB.
+
+Advanced Custom Fields --- Can create custom fields to customize WordPress with powerful, professional and intuitive fields.
+
+Duplicate Page --- Duplicate Posts, Pages and Custom Posts using single click.
+
+Contact Form 7 --- Using contact form plugin can create any form.
+
+Contact Form CFDB7 --- Save and manage Contact Form 7 messages. Never lose important data. Contact Form CFDB7 plugin is an add-on for the Contact Form 7 plugin.
+
+All-in-One WP Migration --- To download database, media files, plugins, and themes. alternative plugin is  UpdraftPlus.
+
+WP-Sweep --- WP-Sweep allows you to clean up unused, orphaned and duplicated data in your WordPress. It cleans up revisions, auto drafts, unapproved comments, spam comments, trashed comments, orphan post meta, orphan comment meta, orphan user meta, orphan term relationships, unused terms, duplicated post meta, duplicated comment meta, duplicated user meta and transient options. It also optimizes your database tables.
+
+WP Rocket --- The best WordPress performance plugin.
+
+Yoast SEO,Rank Math SEO --- To SEO of website
+
+AMP(Accelerated Mobile Pages)--- It allows browsers and apps to load your site's content quickly on mobile devices.
+
+Redirection --- With it you can easily manage 301 redirections, keep track of 404 errors
+
+Regenerate Thumbnails,Force Regenerate Thumbnails --- Regenerate the thumbnails for one or more of your image uploads. Useful when changing their sizes or your theme.
+
+Site Kit by Google --- Get insights about how people find and use your site, how to improve, and monetize your content, directly in your WordPress
+
+Web Stories ---  To easily create visual narratives with engaging animations and tappable interactions, and immerse your readers in great and fast-loading full-screen experiences.
+
+WP Super Cache,W3 Total Cache --- Very fast caching plugin for WordPress.
+
+Slider Revolution --- for adding the slider or carousal
+
+WooCommerce --- It's commonly used to create online e-commerce shops.
+
+Limit Login Attempts Reloaded --- Limit the rate of login attempts for each IP address.
+
+Super Progressive Web Apps --- Convert your WordPress website into a Progressive Web App
+
+WordPress Importer --- Import posts, pages, comments, custom fields, categories, tags and more from a WordPress export file.
+
+Wordfence Security –-- Firewall, Malware Scan, and Login Security
+
+Breadcrumb NavXT --- Adds a breadcrumb navigation showing the visitor's path to their current location.
+
+Web Stories ---  To easily create visual narratives with engaging animations and tappable interactions, and immerse your readers in great and fast-loading full-screen experiences.
